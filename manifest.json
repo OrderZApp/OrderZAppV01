@@ -1,6 +1,6 @@
 {
-    "name": "flutter_supabase_order_app_mobile",
-    "short_name": "flutter_supabase_order_app_mobile",
+    "name": "Order App",
+    "short_name": "Order App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

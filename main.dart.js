@@ -98056,7 +98056,7 @@ $S:573}
 A.pY.prototype={
 AP(){var s=0,r=A.z(t.H),q=1,p=[],o=this,n,m,l,k,j
 var $async$AP=A.u(function(a,b){if(a===1){p.push(b)
-s=q}for(;;)switch(s){case 0:k="https://omkarsutar.github.io/OrderAppV01/"
+s=q}for(;;)switch(s){case 0:k="https://orderzapp.github.io/OrderZAppV01/"
 q=3
 s=6
 return A.r(A.Te(o.a.gdz(),B.Qy,k),$async$AP)
@@ -100992,7 +100992,7 @@ o=p.e.f2(p.d,"product_id")
 s=o!=null?2:3
 break
 case 2:s=4
-return A.r(A.Ea(new A.tQ("https://omkarsutar.github.io/OrderAppV01/#/products/"+A.l(o))),$async$$0)
+return A.r(A.Ea(new A.tQ("https://orderzapp.github.io/OrderZAppV01/#/products/"+A.l(o))),$async$$0)
 case 4:if(q.b.e!=null)A.ayh("Product link copied to clipboard!")
 case 3:return A.x(null,r)}})
 return A.y($async$$0,r)},
@@ -101713,7 +101713,7 @@ A.a2B.prototype={
 aA(){this.aP()
 $.a6.RG$.push(new A.aI5(this))},
 J(a){var s=null,r=this.gcY().aT($.a9W(),t.aq),q=$.PY(),p=A.aY1(B.ai,s,s,B.oX),o=A.cH(12),n=A.aZs(new A.hA(4,A.cH(8),B.eS),s,s,B.pd,!0)
-return new A.WH(new A.WE(new A.za(q,r,"Order App",A.AG(B.DW,s,new A.tG(s,B.pd,s,s,2,s,new A.cf(o,B.m)),p,A.aYT(B.hC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.cf(A.cH(16),B.m),s,s,s),"Roboto",n,!0),s),s),s)}}
+return new A.WH(new A.WE(new A.za(q,r,"Orderzapp",A.AG(B.DW,s,new A.tG(s,B.pd,s,s,2,s,new A.cf(o,B.m)),p,A.aYT(B.hC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.cf(A.cH(16),B.m),s,s,s),"Roboto",n,!0),s),s),s)}}
 A.aI5.prototype={
 $1(a){var s,r=this.a.gcY(),q=$.CQ(),p=t.b0
 r.b3(0,q,p).aCs()
@@ -101992,8 +101992,8 @@ if(!g||c.w){g=k.e
 g=A.aW(j,b,b,b,b,A.j1(b,b,g==null?k.c:g,b,b,b,b,b,b,b,b,b,b,b,B.a2,b,b,!0,b,b,b,b,b,b,b,b),b,b)}else g=b
 k=k.c
 d=t.p
-e=A.dQ(A.b([A.aXU(h,f,g,e,30),A.aW("Order App",b,b,b,b,A.j1(b,b,k,b,b,b,b,b,b,b,b,b,b,b,B.a2,b,b,!0,b,b,b,b,b,b,b,b),b,b)],d),B.az,B.cd,B.A,0)
-l=l?"Welcome, "+p:"Welcome to Order App"
+e=A.dQ(A.b([A.aXU(h,f,g,e,30),A.aW("Orderzapp",b,b,b,b,A.j1(b,b,k,b,b,b,b,b,b,b,b,b,b,b,B.a2,b,b,!0,b,b,b,b,b,b,b,b),b,b)],d),B.az,B.cd,B.A,0)
+l=l?"Welcome, "+p:"Welcome to Orderzapp"
 l=A.b([e,B.nb,A.aW(l,b,1,B.ax,b,A.j1(b,b,k,b,b,b,b,b,b,b,b,18,b,b,B.t,b,b,!0,b,b,b,b,b,b,b,b),b,b)],d)
 h=r.d
 if(h!=null)l.push(A.aW("Role: "+h,b,b,b,b,A.j1(b,b,k.ca(0.7),b,b,b,b,b,b,b,b,14,b,b,B.lS,b,b,!0,b,b,b,b,b,b,b,b),b,b))
@@ -116674,7 +116674,7 @@ B.a_E=new A.bU("Save",null,null,null,null,null,null,null,null)
 B.YE=new A.A(!0,null,null,null,null,null,16,B.ii,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a_F=new A.bU("Sign in with Google",null,B.YE,null,null,null,null,null,null)
 B.Yn=new A.A(!0,B.Y,null,null,null,null,18,B.lS,null,8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a_G=new A.bU("ORDER APP",null,B.Yn,null,null,null,null,null,null)
+B.a_G=new A.bU("ORDERZAPP",null,B.Yn,null,null,null,null,null,null)
 B.a_H=new A.bU("Go to Products",null,null,null,null,null,null,null,null)
 B.a_I=new A.bU("Place Order",null,B.cY,null,null,null,null,null,null)
 B.a_J=new A.bU("Purchase History",null,null,null,null,null,null,null,null)
